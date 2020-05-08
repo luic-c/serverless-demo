@@ -8,8 +8,6 @@ Resources:
           -
             AllowedOrigins:
               - 'https://priceless-keller-2c775c.netlify.app/'
-	    AllowedOrigins:
-	      - 'http://priceless-keller-2c775c.netlify.app/'
             AllowedHeaders:
               - '*'
             AllowedMethods:
